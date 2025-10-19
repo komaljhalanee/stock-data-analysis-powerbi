@@ -42,6 +42,4 @@ The dashboard showcases five core financial metrics for immediate performance as
 
 ## 📸 Dashboard Preview
 
-*(Optional: Insert your primary screenshot here—the one that shows the entire dashboard layout.)*
-
-Tata Motors Stock Analysis Dashboard ("./assets/dashboard.png")
+Tata Motors Stock Analysis Dashboard ("https://raw.githubusercontent.com/komaljhalanee/stock-data-analysis-powerbi/refs/heads/main/assets/dashboard.png")
